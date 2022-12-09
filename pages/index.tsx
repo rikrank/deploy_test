@@ -45,7 +45,7 @@ export default function Home() {
 
         <div css={container}>
           <p css={[hello, hi]}>
-            ああああ<span>いいいい</span>
+            ああああ<span>いいいいiiiii</span>
           </p>
 
           <p css={[hello, hi]}>
